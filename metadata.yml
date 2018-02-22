@@ -1,9 +1,9 @@
 metadata_version: 1 # It must be 1
-description: "Description"
-author: "Author Name"
+description: "My first Spin"
+author: "Carol Chen"
 company: #Optional
 
-min_miq_version: "h"
+min_miq_version: "g"
 # A letter with the manageiq_version:
 # For Hammer, use "h"
 # For Gaprishdanvili, use "g"
